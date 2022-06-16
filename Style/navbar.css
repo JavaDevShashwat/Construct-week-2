@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+}
+
+/* First row Style in the nav bar */
+#row1{
+    display: flex;
+    height: 36px;
+    border-bottom: 1px solid rgb(218, 218, 218);
+}
+#row1>div>a{
+    text-decoration: none;
+    color: #666;
+}
+#row1>div:nth-child(1){
+    position: relative;
+    height: 25px;
+    left: 1100px;
+    border: 1px solid rgb(218, 218, 218);
+    padding: 5px 20px;
+}
+#row1>div:nth-child(2){
+    position: relative;
+    height: 25px;
+    left: 1100px;
+    border: 1px solid rgb(218, 218, 218);
+    padding: 5px 20px;
+}
+.icon{
+    position: relative;
+    height: 20px;
+    left: 1100px;
+    padding: 7.5px 20px;
+    width: 20px;
+    border: 1px solid rgb(218, 218, 218);
+}
+
+/* Second row of navbar has been styled over here  */
+
+
+#row2{
+    height: 60px;
+    background-color: #2d2d2d;
+}
+
+#row2div{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    height: 60px;
+    
+}
+
+#row2div>div{
+    border-right: #525050 1px solid;
+    text-align: center;
+}
+
+#row2div>div>a{
+    text-decoration: none;
+    color: white;
+
+}
+
+#row2div>div>a>img{
+    width: 25px;
+    margin: 12.5px 10px 0 0;
+}
+
+#row2div>div:nth-child(1){
+    width: 9%;
+    font-size: 40px;
+    font-family: 'Questrial', sans-serif;
+    
+}
+#row2div>div:nth-child(2){
+    width: 8%;
+    font-size: 18px;
+    font-family: 'Mukta', sans-serif;
+    padding-top: 15px;
+}
+#row2div>div:nth-child(3){
+    width: 8%;
+    font-size: 18px;
+    font-family: 'Mukta', sans-serif;
+    padding-top: 15px;
+}
+#row2div>div:nth-child(4){
+    width: 58%;
+    padding: 10px;
+    border-right: 0px;
+}
+
+#row2div>div:nth-child(4)>input{
+    width: 92%;
+    height: 40px;
+    border-radius: 20px;
+    border: 0px ;
+    padding-left: 20px;
+}
+
+#row2div>div:nth-child(5){
+    width: 4%;
+    border-right: 0px;
+    padding-top: 5px;
+}
+#row2div>div:nth-child(6){
+    width: 4%;
+    border-right: 0px;
+    padding-top: 5px;
+}
+#row2div>div:nth-child(7){
+    width: 4%;
+    border-right: 0px;
+}
+#row2div>div:nth-child(7)>a>img{
+    width: 30px;
+    border-right: 0px;
+}
+
+#hidden_div{
+    display: none;
+    width: 90%;
+    margin: auto;
+    background-color: white;
+}
+
+/* Third row of navbar has been styled over here  */
+
+
+#row3{
+    background-color: #525050;
+}
+#row3div{
+    width: 87%;
+    margin: auto;
+    display: flex;
+    height: 45px;
+    font-family: 'Mukta', sans-serif;
+}
+
+#row3div>div{
+    padding: 10px 0;
+}
+#row3div>div>a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 0;
+}
+
+#row3div>div:nth-child(1),#row3div>div:nth-child(2),#row3div>div:nth-child(3),#row3div>div:nth-child(4),#row3div>div:nth-child(11),#row3div>div:nth-child(12){
+    width: 5%;
+    text-align: center;
+}
+
+#row3div>div:nth-child(5),#row3div>div:nth-child(6),#row3div>div:nth-child(8),#row3div>div:nth-child(10),#row3div>div:nth-child(13){
+    width: 8%;
+    text-align: center;
+}
+#row3div>div:nth-child(7),#row3div>div:nth-child(9){
+    width: 6%;
+    text-align: center;
+}
+#sales:hover,#new:hover,#clothing:hover,#shoes:hover,#sportswear:hover,#accessories:hover,#summer:hover,#trending:hover,#topman:hover,#face:hover,#brands:hover,#outlet:hover,#market:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
