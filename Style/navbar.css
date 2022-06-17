@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    font-family: 'Questrial';
 }
 
 /* First row Style in the nav bar */
@@ -76,14 +77,12 @@
 #row2div>div:nth-child(2){
     width: 8%;
     font-size: 18px;
-    font-family: 'Mukta', sans-serif;
-    padding-top: 15px;
+    font-family: 'Questrial', sans-serif; padding-top: 15px;
 }
 #row2div>div:nth-child(3){
     width: 8%;
     font-size: 18px;
-    font-family: 'Mukta', sans-serif;
-    padding-top: 15px;
+    font-family: 'Questrial', sans-serif; padding-top: 15px;
 }
 #row2div>div:nth-child(4){
     width: 58%;
@@ -136,7 +135,7 @@
     margin: auto;
     display: flex;
     height: 45px;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Questrial', sans-serif;
 }
 
 #row3div>div{
@@ -357,6 +356,14 @@
 .horimg>img{
     width: 120%;
 }
-.drop-down div:nth-child(1){
+.middle div:nth-child(1){
     font-weight: 100;
+    font-size: 12px;
+    padding-top: 5px;
+    font-family:  'Questrial', sans-serif;
+}
+
+#sales, #outlet{
+    padding-top: 17.5px;
+    font-size: 14px;
 }

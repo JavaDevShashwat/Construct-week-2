@@ -53,6 +53,7 @@
 #footerR2>div>div>a{
     text-decoration: none;
     color: #666;
+    margin-top: 10px;
 }
 #footerR2>div>div>a>p:hover{
     color: rgb(36, 36, 173);
@@ -94,4 +95,7 @@
 #footerR3>div>div>div>p,#footerR3>div>div{
     font-size: 10px;
     margin-top: 5px;
+}
+#grid>div>a>p{
+    margin-top: 10px;
 }

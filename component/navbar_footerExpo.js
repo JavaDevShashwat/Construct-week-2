@@ -17,7 +17,7 @@ function navbar(){
         </div>
         <div id="row3">
             <div id="row3div">
-                <div class="drop-down wid5">
+                <div class="drop-down wid5 middle">
                     <div id="sales" class="rhombus"><b>Sale</b></div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -75,7 +75,7 @@ function navbar(){
                 </div>
                 </div>
                 
-                <div class="drop-down wid5">
+                <div class="drop-down wid5 middle">
                     <div id="new">New in</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex new">
@@ -110,7 +110,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down win6">
+                <div class="drop-down win6 middle">
                     <div id="clothing">Clothing</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -164,7 +164,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down wid5">
+                <div class="drop-down wid5 middle">
                     <div id="shoes">Shoes</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex new">
@@ -204,7 +204,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down">
+                <div class="drop-down middle">
                     <div id="sportswear">Sportswear</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -246,7 +246,7 @@ function navbar(){
                         </div>
                     </div>
                 </div>
-                <div class="drop-down">
+                <div class="drop-down middle">
                     <div id="accessories">Accessories</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -289,7 +289,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down win6">
+                <div class="drop-down win6 middle">
                     <div id="summer">Summer</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -330,7 +330,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down win9">
+                <div class="drop-down win9 middle">
                     <div id="trending">Trending now</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -365,7 +365,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down win6">
+                <div class="drop-down win6 middle">
                     <div id="topman">Topman</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -405,7 +405,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down">
+                <div class="drop-down middle">
                     <div id="face">Face + Body</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -455,7 +455,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down win6">
+                <div class="drop-down win6 middle">
                     <div id="brands">Brands</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -503,7 +503,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down win6">
+                <div class="drop-down win6 middle">
                     <div id="outlet" class="rhombus"><b>Outlet</b></div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -562,7 +562,7 @@ function navbar(){
                     </div>
                 </div>
                 
-                <div class="drop-down">
+                <div class="drop-down middle">
                     <div id="market">Marketplace</div>
                     <div class="dropdown-content">
                         <div class="dropdownflex">
@@ -635,7 +635,7 @@ function footer(){
                 </div>
         </div>
         <div id="footerR2">
-            <div>
+            <div id="grid">
             <div>
                 <h4>HELP & INFORMATION</h4>
                 <a target="_blank" href="https://www.asos.com/customer-care/"><P>Help</P></a>
